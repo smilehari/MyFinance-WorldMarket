@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "563206972794",
+    "project_id": "myfinanceworld-76b80",
+    "storage_bucket": "myfinanceworld-76b80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563206972794:android:7c9f24b7af37986478a2c3",
+        "android_client_info": {
+          "package_name": "com.harishri.financepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563206972794-8na4l5c6hhnarrjelbdsubh1d5727mfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harishri.financepal",
+            "certificate_hash": "43eeef9759771f755a8441ea5f4dd31586397a6b"
+          }
+        },
+        {
+          "client_id": "563206972794-bpabme366tv2al3naivp0edeim83pse6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOttBzo9HarnnUJjpCas-z4hm4H6MI-QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563206972794-bpabme366tv2al3naivp0edeim83pse6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
